@@ -2,7 +2,7 @@
 
 Comandos para iniciar o projeto:
 
-Instale as dependências usando yarn:
+Instale as dependências usando yarn na raiz do projeto:
 
 ```
 yarn install
